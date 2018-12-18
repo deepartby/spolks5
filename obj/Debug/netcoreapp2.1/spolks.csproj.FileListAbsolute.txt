@@ -1,0 +1,33 @@
+/Users/mas/RiderProjects/Spolks5/spolks/obj/Debug/netcoreapp2.1/spolks.csprojAssemblyReference.cache
+/Users/mas/RiderProjects/Spolks5/spolks/obj/Debug/netcoreapp2.1/spolks.csproj.CoreCompileInputs.cache
+/Users/mas/RiderProjects/Spolks5/spolks/obj/Debug/netcoreapp2.1/spolks.AssemblyInfoInputs.cache
+/Users/mas/RiderProjects/Spolks5/spolks/obj/Debug/netcoreapp2.1/spolks.AssemblyInfo.cs
+/Users/mas/RiderProjects/Spolks5/spolks/bin/Debug/netcoreapp2.1/spolks.deps.json
+/Users/mas/RiderProjects/Spolks5/spolks/bin/Debug/netcoreapp2.1/spolks.runtimeconfig.json
+/Users/mas/RiderProjects/Spolks5/spolks/bin/Debug/netcoreapp2.1/spolks.runtimeconfig.dev.json
+/Users/mas/RiderProjects/Spolks5/spolks/bin/Debug/netcoreapp2.1/spolks.dll
+/Users/mas/RiderProjects/Spolks5/spolks/bin/Debug/netcoreapp2.1/spolks.pdb
+/Users/mas/RiderProjects/Spolks5/spolks/obj/Debug/netcoreapp2.1/spolks.dll
+/Users/mas/RiderProjects/Spolks5/spolks/obj/Debug/netcoreapp2.1/spolks.pdb
+C:\Users\Никита\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.deps.json
+C:\Users\Никита\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.runtimeconfig.json
+C:\Users\Никита\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.dll
+C:\Users\Никита\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.pdb
+C:\Users\Никита\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.AssemblyInfo.cs
+C:\Users\Никита\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.dll
+C:\Users\Никита\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.pdb
+C:\Users\Lizaveta Bich\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.deps.json
+C:\Users\Lizaveta Bich\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.runtimeconfig.json
+C:\Users\Lizaveta Bich\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.runtimeconfig.dev.json
+C:\Users\Lizaveta Bich\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.dll
+C:\Users\Lizaveta Bich\Desktop\spolks\bin\Debug\netcoreapp2.1\spolks.pdb
+C:\Users\Lizaveta Bich\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.csproj.CoreCompileInputs.cache
+C:\Users\Lizaveta Bich\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.AssemblyInfoInputs.cache
+C:\Users\Lizaveta Bich\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.AssemblyInfo.cs
+C:\Users\Lizaveta Bich\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.dll
+C:\Users\Lizaveta Bich\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.pdb
+C:\Users\Lizaveta Bich\Desktop\spolks\obj\Debug\netcoreapp2.1\spolks.csprojAssemblyReference.cache

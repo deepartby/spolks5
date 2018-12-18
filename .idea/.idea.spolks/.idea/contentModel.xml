@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_spolks.2134739628.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="extensions" t="Include">
+        <e p="CommandLineApplicationX.cs" t="Include" />
+        <e p="IListX.cs" t="Include" />
+        <e p="PingReplyX.cs" t="Include" />
+        <e p="StringX.cs" t="Include" />
+      </e>
+      <e p="HostAddressValidator" t="Include">
+        <e p="AddressValidator.cs" t="Include" />
+        <e p="AddressValidatorProvider.cs" t="Include" />
+        <e p="IAddressValidator.cs" t="Include" />
+        <e p="IpAddressValidator.cs" t="Include" />
+        <e p="UriAddressValidator.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="spolks.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ParallelPing" t="Include">
+        <e p="PingManager.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="spolks.csproj" t="IncludeRecursive" />
+      <e p="Tracert" t="Include">
+        <e p="PingTracert.cs" t="Include" />
+        <e p="TracertOrchestrator.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
